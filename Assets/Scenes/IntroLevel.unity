@@ -5459,7 +5459,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06946fa037d8e79498faca4911127db5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedColor: {r: 1, g: 0.21226418, b: 0.21226418, a: 1}
+  selectedColor: {r: 1, g: 0.3254717, b: 0.39064178, a: 1}
+  onSelects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1750248169}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onDeselects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1750248169}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0.66
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &493972431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10996,7 +11024,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06946fa037d8e79498faca4911127db5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedColor: {r: 1, g: 0.21226418, b: 0.21226418, a: 1}
+  selectedColor: {r: 1, g: 0.3254717, b: 0.39064178, a: 1}
+  onSelects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 680305891}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onDeselects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 680305891}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0.55
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &800460153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12222,7 +12278,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06946fa037d8e79498faca4911127db5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedColor: {r: 1, g: 0.21226418, b: 0.21226418, a: 1}
+  selectedColor: {r: 1, g: 0.3254717, b: 0.39064178, a: 1}
+  onSelects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 20138925}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onDeselects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 20138925}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0.66
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1285829379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32277,7 +32361,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06946fa037d8e79498faca4911127db5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedColor: {r: 1, g: 0.21226418, b: 0.21226418, a: 1}
+  selectedColor: {r: 1, g: 0.3254717, b: 0.39064178, a: 1}
+  onSelects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1490790645}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onDeselects:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1490790645}
+        m_MethodName: set_intensity
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0.66
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1904428623
 MonoBehaviour:
   m_ObjectHideFlags: 0
