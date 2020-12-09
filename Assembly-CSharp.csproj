@@ -41,8 +41,8 @@
      <Compile Include="Assets\Scripts\FloatingSurface.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\Moveable.cs" />
+     <Compile Include="Assets\Scripts\Selecting\Behaviour\DragBySelect.cs" />
      <Compile Include="Assets\Scripts\Selecting\Cursor.cs" />
-     <Compile Include="Assets\Scripts\Selecting\CursorSelect.cs" />
      <Compile Include="Assets\Scripts\Selecting\Selectable.cs" />
      <Compile Include="Assets\Scripts\Selecting\Selector.cs" />
      <Compile Include="Assets\Scripts\StandartMoveSystem.cs" />

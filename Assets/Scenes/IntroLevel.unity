@@ -32413,8 +32413,8 @@ GameObject:
   - component: {fileID: 2052179888}
   - component: {fileID: 2052179890}
   - component: {fileID: 2052179889}
-  - component: {fileID: 2052179892}
   - component: {fileID: 2052179891}
+  - component: {fileID: 2052179892}
   m_Layer: 0
   m_Name: Cursor
   m_TagString: Untagged
@@ -32450,6 +32450,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.09
+  offset: {x: 0, y: 0, z: 0}
+  position: {x: 0, y: 0, z: 0}
 --- !u!212 &2052179890
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32521,6 +32523,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2052179887}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f30bef442d915ac48874641c1328527a, type: 3}
+  m_Script: {fileID: 11500000, guid: 439a80afc5d2fb74c831d3a6e7ee41cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
